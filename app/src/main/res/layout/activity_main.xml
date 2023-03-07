@@ -223,7 +223,7 @@
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_gravity="center"
-                    android:src="@drawable/mintemp" />
+                    android:src="@drawable/visibility" />
 
                 <TextView
                     android:id="@+id/TVVisibility"
@@ -261,7 +261,7 @@
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_gravity="center"
-                    android:src="@drawable/temp" />
+                    android:src="@drawable/pressure" />
 
                 <TextView
                     android:id="@+id/TVPressure"
@@ -298,7 +298,7 @@
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_gravity="center"
-                    android:src="@drawable/maxtemp" />
+                    android:src="@drawable/humidity" />
 
                 <TextView
                     android:id="@+id/TVHumidity"
