@@ -5,11 +5,13 @@
 
 # Download the App from app-debug.apk file.
 
-![ss1](https://user-images.githubusercontent.com/123265441/222975854-f6d47f92-ba2b-4dc4-9a8e-4d90ca96dcdd.png)
-![ss2](https://user-images.githubusercontent.com/123265441/222975850-2d3d188a-f079-4489-8309-b26f58c81d53.png)
-![ss3](https://user-images.githubusercontent.com/123265441/222975848-4bb83ebb-8947-4c58-9776-0aced6b04ebe.png)
-![ss4](https://user-images.githubusercontent.com/123265441/222975846-5526b0d1-13d2-4be8-ac4a-ff117379505e.png)
-![ss5](https://user-images.githubusercontent.com/123265441/222975837-0657730b-0cd8-4508-b1a5-0a3c0d0e0c15.png)
+![ss2](https://user-images.githubusercontent.com/123265441/223535411-12044736-8c72-4150-96a7-fc0bbc737f36.png)
+![ss1](https://user-images.githubusercontent.com/123265441/223535366-93ef3e2c-7921-4380-a62f-2bcbf4deed83.png)
+![ss4](https://user-images.githubusercontent.com/123265441/223535457-af0e91a8-ddf1-4bff-a4fc-ccca47af1d06.png)
+![ss3](https://user-images.githubusercontent.com/123265441/223535438-34b6b6ee-55c2-4491-972f-2e22cfd47fa8.png)
+![ss5](https://user-images.githubusercontent.com/123265441/223535306-505cb5ba-405c-4554-9172-24311d8577b7.png)
+
+
 
 
 
